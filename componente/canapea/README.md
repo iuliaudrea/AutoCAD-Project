@@ -5,10 +5,10 @@
 </p>
   
 <p align="center">
-  <img src="./img/cotari" width=700>
+  <img src="./img/cotari.png" width=700>
 </p>
 
 <p align="center">
-  <img src="./img/canapea" width=700>
+  <img src="./img/canapea.png" width=700>
 </p>
 
