@@ -46,9 +46,9 @@ Pentru ca obiectele să devină realiste și pentru a putea realiza randarea, es
 ### Trăsura după aplicarea materialelor:
 
 <p align="center">
-<img src="./img/interior.png" height=230>
-<img src="./img/side.png" height=230>
-<img src="./img/final.png" height=230>
+<img src="./img/interior.png" height=190>
+<img src="./img/side.png" height=190>
+<img src="./img/final.png" height=190>
 </p>
 
 ## Animarea trăsurii
@@ -80,9 +80,9 @@ Pentru a putea utiliza funcția RENDER, am adăugat 7 surse de lumină: 2 în fa
 ## Trăsura finală
 
 <p align="center">
-  <img src="./img/fata.png" height=250>
-  <img src="./img/spate.png" height=250>
-  <img src="./img/top.png" height=250>
+  <img src="./img/fata.png" height=200>
+  <img src="./img/spate.png" height=200>
+  <img src="./img/top.png" height=200>
 </p>
 
 
@@ -93,15 +93,15 @@ Pentru a putea utiliza funcția RENDER, am adăugat 7 surse de lumină: 2 în fa
 
 
 <p align="center">
-<img src="./img/felinar.png" height=250>
-<img src="./img/randare_interior.png" height=250>
+<img src="./img/felinar.png" height=200>
+<img src="./img/randare_interior.png" height=200>
 </p>
 
 ## Planșe tehnice
 Fiecare schiță poate fi reprezentată pe o planșă tehnică, ce conține un tabel cu detalii referitoare la proiectant. În acest scop, am creat un template ce poate fi aplicat fiecărei schițe.
 
 <p align="center">
-  <img src="./img/plansa/png" width=600>
+  <img src="./img/plansa.png" width=600>
 </p>
 
 ## Tehnologii utilizate
