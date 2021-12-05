@@ -1,6 +1,6 @@
 # Proiectarea unei trăsuri folosind aplicația AutoCAD
 <p align="justify">
-Acest repository conține fișierele și documentația pentru proiectul <i>”Trăsură”</i>, ce constă în proiectarea unei trăsuri folosind aplicația <i>AutoCAD</i>. Proiectul a fost realizat pentru cursul de <i>Proiectare Asistată de Calculator</i> în anul I, semestrul 2, în cadrul <i>Facultății de Matematică și Informatică - Univeristatea din București</i>.
+Acest repository conține fișierele și documentația pentru proiectul <i>”Trăsură”</i>, ce constă în proiectarea unei trăsuri folosind aplicația <i>AutoCAD</i>. Proiectul a fost realizat pentru cursul de <i>Proiectare Asistată de Calculator</i> în anul I, semestrul 2, în cadrul <i>Facultății de Matematică și Informatică - Universitatea din București</i>.
 </p>
   
 ## Proiectarea componentelor
