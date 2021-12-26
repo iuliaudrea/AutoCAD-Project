@@ -8,19 +8,18 @@ Acest repository conține fișierele și documentația pentru proiectul <i>”Tr
 <ol type = 1>
   <li>Cabina</li>
     <ol type=I>
-      <li>Pereții</li>
-      <li>Treapta</li>
-      <li>Mânerul</li>
-      <li>Ușile laterale</li>
-      <li>Canapeaua</li>
-      <li>Draperiile</li>
-      <li>Ușile laterale</li>
+      <li><a href="./componente/pereti si decoratiuni">Pereții și decorațiunile </a></li>
+      <li><a href="./componente/treapta">Treapta </a></li>
+      <li><a href="./componente/maner">Mânerul </a></li>
+      <li><a href="./componente/usi laterale">Ușile laterale </a></li>
+      <li><a href="./componente/canapea">Canapeaua </a></li>
+      <li><a href="./componente/draperii">Draperiile </a></li>
     </ol>
-  <li>Scaunul vizitiului</li>
-  <li>Felinarul</li>
-  <li>Osia din față</li>
-  <li>Osia din spate</li>
-  <li>Roțile</li>
+  <li><a href="./componente/scaun vizitiu">Scaunul vizitiului </a></li>
+  <li><a href="./componente/felinar">Felinarul </a></li>
+  <li><a href="./componente/osia din fata">Osia din față </a></li>
+  <li><a href="./componente/osia din spate">Osia din spate </a></li>
+  <li><a href="./componente/roti">Roțile </a></li>
 </ol>
 
 ## Adăugarea materialelor

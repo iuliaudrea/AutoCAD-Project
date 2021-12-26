@@ -1,6 +1,6 @@
 ## Roțile
 <p align="justify">
-  Roțile din față și cele din spate au fost create similar, folosind aceleași metode, însădiferă dimensiunile. 
+  Roțile din față și cele din spate au fost create similar, folosind aceleași metode, însă diferă dimensiunile. 
   </p>
   <p align="center">
   <img src="./img/roti3d.png" height=300>
